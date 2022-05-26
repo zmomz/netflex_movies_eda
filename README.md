@@ -1,2 +1,2 @@
-# netflex_movies_eda
-an attempt to extract insights from netflex movies dataset
+# Netflex movies EDA
+an attempt to extract insights out of netflex movies dataset
